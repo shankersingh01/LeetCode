@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/shankersingh01/LeetCode/tree/master/0260-single-number-iii) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/shankersingh01/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/shankersingh01/LeetCode/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shankersingh01/LeetCode/tree/master/0409-longest-palindrome) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/shankersingh01/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/shankersingh01/LeetCode/tree/master/1044-find-common-characters) |
 # String
 |  |
@@ -33,3 +35,7 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/shankersingh01/LeetCode/tree/master/0260-single-number-iii) |
+# Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/shankersingh01/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
