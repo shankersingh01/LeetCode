@@ -7,6 +7,7 @@
 | [0260-single-number-iii](https://github.com/shankersingh01/LeetCode/tree/master/0260-single-number-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shankersingh01/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/shankersingh01/LeetCode/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/shankersingh01/LeetCode/tree/master/1137-height-checker) |
 # Hash Table
 |  |
 | ------- |
@@ -39,3 +40,11 @@
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shankersingh01/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+# Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/shankersingh01/LeetCode/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/shankersingh01/LeetCode/tree/master/1137-height-checker) |
