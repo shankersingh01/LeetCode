@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shankersingh01/LeetCode/tree/master/0075-sort-colors) |
 | [0260-single-number-iii](https://github.com/shankersingh01/LeetCode/tree/master/0260-single-number-iii) |
+| [0502-ipo](https://github.com/shankersingh01/LeetCode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shankersingh01/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shankersingh01/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/shankersingh01/LeetCode/tree/master/1044-find-common-characters) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shankersingh01/LeetCode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/shankersingh01/LeetCode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shankersingh01/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shankersingh01/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/shankersingh01/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shankersingh01/LeetCode/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/shankersingh01/LeetCode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shankersingh01/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/shankersingh01/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shankersingh01/LeetCode/tree/master/1217-relative-sort-array) |
@@ -62,3 +65,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shankersingh01/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/shankersingh01/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shankersingh01/LeetCode/tree/master/1217-relative-sort-array) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/shankersingh01/LeetCode/tree/master/0502-ipo) |
