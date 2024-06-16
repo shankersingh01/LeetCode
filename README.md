@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shankersingh01/LeetCode/tree/master/0075-sort-colors) |
 | [0260-single-number-iii](https://github.com/shankersingh01/LeetCode/tree/master/0260-single-number-iii) |
+| [0330-patching-array](https://github.com/shankersingh01/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/shankersingh01/LeetCode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shankersingh01/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shankersingh01/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -31,6 +32,7 @@
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/shankersingh01/LeetCode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/shankersingh01/LeetCode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/shankersingh01/LeetCode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shankersingh01/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
