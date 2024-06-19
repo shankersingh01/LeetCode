@@ -82,6 +82,7 @@
 # Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shankersingh01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shankersingh01/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Binary Search
 |  |
@@ -92,4 +93,9 @@
 # Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shankersingh01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shankersingh01/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+# Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shankersingh01/LeetCode/tree/master/0002-add-two-numbers) |
