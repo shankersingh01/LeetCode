@@ -9,18 +9,20 @@
 class Solution {
 public:
     ListNode* getIntersectionNode(ListNode* headA, ListNode* headB) {
-        ListNode *temp1 = headA;
+        unordered_map<ListNode*, int> map;
+        ListNode* temp1 = headA;
         while (temp1 != NULL) {
-            ListNode* temp2 = headB;
-            while (temp2 != NULL) {
-                // if both nodes are same
-                if (temp1 == temp2)
-                    return temp1;
-                temp2 = temp2->next;
-            }
+            map[temp1] = temp1->val;
             temp1 = temp1->next;
         }
-        // intersection is not present between the lists return null
+
+        ListNode* temp2 = headB;
+        while (temp2 != NULL) {
+            if (map.find(temp2) != map.end()) {
+                return temp2;
+            }
+            temp2 = temp2->next;
+        }
         return NULL;
     }
 };
