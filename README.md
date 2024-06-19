@@ -14,6 +14,7 @@
 | [1002-find-common-characters](https://github.com/shankersingh01/LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/shankersingh01/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shankersingh01/LeetCode/tree/master/1217-relative-sort-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shankersingh01/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shankersingh01/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
@@ -85,3 +86,4 @@
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/shankersingh01/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/shankersingh01/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shankersingh01/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
