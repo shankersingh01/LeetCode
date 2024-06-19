@@ -19,6 +19,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/shankersingh01/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/shankersingh01/LeetCode/tree/master/0409-longest-palindrome) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shankersingh01/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/shankersingh01/LeetCode/tree/master/1044-find-common-characters) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shankersingh01/LeetCode/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shankersingh01/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/shankersingh01/LeetCode/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/shankersingh01/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/shankersingh01/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -87,3 +89,7 @@
 | [0633-sum-of-square-numbers](https://github.com/shankersingh01/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/shankersingh01/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shankersingh01/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+# Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/shankersingh01/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
