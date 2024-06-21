@@ -8,18 +8,18 @@ public:
             }
         }
 
-        int maxGrumpySum = 0;
-        for(int i=0; i<=grumpy.size()-minutes; ++i){
-            int j=0, k=i;
-            int currGrumpySum = 0;
-            while (j < minutes) {
-                currGrumpySum += grumpy[k] * customers[k];
-                j++;
-                k++;
-            }
-            maxGrumpySum = max(maxGrumpySum, currGrumpySum);
-            // i++;
+        int currGrumpySum = 0;
+        for (int i = 0; i < minutes; ++i) {
+            currGrumpySum += customers[i] * grumpy[i];
         }
+        int maxGrumpySum = currGrumpySum;
+
+        for (int i = minutes; i < grumpy.size(); ++i) {
+            currGrumpySum += customers[i] * grumpy[i];
+            currGrumpySum -= customers[i - minutes] * grumpy[i - minutes];
+            maxGrumpySum = max(maxGrumpySum, currGrumpySum);
+        }
+
         return initialSum + maxGrumpySum;
     }
 };
