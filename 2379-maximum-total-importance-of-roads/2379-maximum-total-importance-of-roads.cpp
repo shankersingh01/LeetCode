@@ -8,19 +8,14 @@ public:
             cityDeg[first]++;
             cityDeg[second]++;
         }
-        vector<int> cities;
-        for (int i = 0; i < n; ++i) {
-            cities.push_back(i);
+        sort(cityDeg.begin(), cityDeg.end());
+
+        long long totalImp = 0;
+        long long importance = 1;
+        for (auto it : cityDeg) {
+            totalImp += it * (importance++);
         }
 
-        sort(cities.begin(),cities.end(), [&](int a, int b){
-            return cityDeg[a] > cityDeg[b];
-        });
-        
-        long long totalImp = 0;
-        for (int i = 0; i < n; i++) {
-            totalImp += (long)(n - i) * cityDeg[cities[i]];
-        }
         return totalImp;
     }
 };
