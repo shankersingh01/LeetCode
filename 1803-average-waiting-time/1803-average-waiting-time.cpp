@@ -7,7 +7,7 @@ public:
         for(int i=0; i<customers.size(); ++i){
             if(customers[i][0]-duration > 0){
                 duration=customers[i][0]+customers[i][1];
-                sumWaitTime += duration - customers[i][0];
+                sumWaitTime += customers[i][1];
             }
             else{
             duration += customers[i][1];
