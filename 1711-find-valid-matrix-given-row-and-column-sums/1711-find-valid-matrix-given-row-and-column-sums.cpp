@@ -23,9 +23,6 @@ public:
             colSum[cur_col] -= value_to_put;
             res[cur_row][cur_col] = value_to_put;
 
-            // I write this as this because it's possible that rowSum[cur_row]
-            // == colSum[cur_col] and we'll want to move both row and col
-            // pointers
             if (rowSum[cur_row] == 0) {
                 cur_row++;
             }
