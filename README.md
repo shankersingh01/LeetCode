@@ -199,6 +199,7 @@
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shankersingh01/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shankersingh01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shankersingh01/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/shankersingh01/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -214,6 +215,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shankersingh01/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shankersingh01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/shankersingh01/LeetCode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shankersingh01/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -225,10 +227,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shankersingh01/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shankersingh01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shankersingh01/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shankersingh01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/shankersingh01/LeetCode/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shankersingh01/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -257,6 +261,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shankersingh01/LeetCode/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/shankersingh01/LeetCode/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/shankersingh01/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shankersingh01/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/shankersingh01/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -304,4 +309,8 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shankersingh01/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/shankersingh01/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/shankersingh01/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shankersingh01/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
