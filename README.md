@@ -199,6 +199,7 @@
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shankersingh01/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/shankersingh01/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shankersingh01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/shankersingh01/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -228,6 +229,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shankersingh01/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/shankersingh01/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shankersingh01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
