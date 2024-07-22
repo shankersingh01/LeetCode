@@ -201,6 +201,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/shankersingh01/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shankersingh01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/shankersingh01/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shankersingh01/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/shankersingh01/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shankersingh01/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
