@@ -7,7 +7,7 @@ public:
         }
 
         for (int num : arr) {
-            if(mp.find(num)!=mp.end() && mp[num]>0){
+            if(mp[num]>0){
                 mp[num]--;
             }
             else{
