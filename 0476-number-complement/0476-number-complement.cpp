@@ -4,12 +4,15 @@ public:
         if (num == 0)
             return 1;
 
-        unsigned int mask = ~0;
-
-        while (num & mask) {
-            mask <<= 1;
+        int bitLength = 0;
+        int n = num;
+        while (n > 0) {
+            n >>= 1;
+            bitLength++;
         }
 
-        return ~mask & ~num;
+        unsigned int mask = (1U << bitLength) - 1;
+
+        return num ^ mask;
     }
 };
