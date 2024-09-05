@@ -13,18 +13,14 @@ public:
             return {};
         }
 
-        vector<int> missingArr;
-        while (reqSum > 0) {
-            int missingNum = reqSum / n;
+        int rem =
+            reqSum % n; // to add the rem to one or more elements of the array
+        int potentialNum =
+            reqSum / n; // this could be the only number filling the array
 
-            missingArr.push_back(missingNum);
-            reqSum -= missingNum;
-            n--;
-            if (n == 0)
-                break;
-        }
-        if(n>0){
-            return {};
+        vector<int> missingArr(n, potentialNum);
+        for (int i = 1; i <= rem; ++i) {
+            missingArr[i]++;
         }
         return missingArr;
     }
