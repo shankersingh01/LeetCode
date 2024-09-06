@@ -13,21 +13,26 @@ public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
         bitset<100001> mask;
 
-        for(int i=0; i<nums.size(); ++i){
+        for (int i = 0; i < nums.size(); ++i) {
             mask.set(nums[i]);
         }
 
-        ListNode* curr=head;
-        ListNode* head2= new ListNode(0);
-        ListNode* curr2 = head2;
-        int count=1;
-        while(curr!=nullptr){
-            if(mask[curr->val]==0 ){
-                curr2->next=new ListNode(curr->val);
-                curr2=curr2->next;
-            }   
-            curr=curr->next;
+        ListNode* curr = head;
+        ListNode head2(0, head);
+        ListNode *prev = &head2, *temp = NULL;
+        while (curr != nullptr) {
+            if (mask[curr->val] == 1) {
+                prev->next = curr->next;
+                temp = curr;
+                curr=curr->next;
+                delete temp;
+                
+            } else {
+                prev = curr;
+                temp = NULL;
+                curr=curr->next;
+            }
         }
-        return head2->next;
+        return head2.next;
     }
 };
