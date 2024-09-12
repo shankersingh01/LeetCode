@@ -1,22 +1,21 @@
 class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
-        unordered_map<char, int> mp;
-        for (auto letter : allowed) {
-            mp[letter]++;
+        bitset<26> allowedBits;
+
+        for (char c : allowed) {
+            allowedBits[c - 'a'] = 1;
         }
+
         int count = 0;
-        for (auto word : words) {
-            int flag = 0;
-            for (int i = 0; i < word.size(); ++i) {
-                if (mp.find(word[i]) == mp.end()) {
-                    flag = 1;
-                    break;
+        for (string& word : words) {
+            int consistent = 1;
+            for (char c : word) {
+                if (allowedBits[c - 'a'] == 0) {
+                    consistent = 0;
                 }
             }
-            if (flag == 0) {
-                count++;
-            }
+            count += consistent;
         }
         return count;
     }
