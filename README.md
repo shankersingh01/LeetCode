@@ -251,6 +251,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/shankersingh01/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/shankersingh01/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shankersingh01/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shankersingh01/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shankersingh01/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/shankersingh01/LeetCode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/shankersingh01/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -302,6 +303,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shankersingh01/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/shankersingh01/LeetCode/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shankersingh01/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shankersingh01/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shankersingh01/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
@@ -316,6 +318,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shankersingh01/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shankersingh01/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shankersingh01/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shankersingh01/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2502-sort-the-people](https://github.com/shankersingh01/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/shankersingh01/LeetCode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shankersingh01/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -327,6 +330,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shankersingh01/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/shankersingh01/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shankersingh01/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shankersingh01/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/shankersingh01/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shankersingh01/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -513,6 +517,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shankersingh01/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/shankersingh01/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Strongly Connected Component
 |  |
@@ -539,6 +544,7 @@
 | ------- |
 | [1240-stone-game-ii](https://github.com/shankersingh01/LeetCode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shankersingh01/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shankersingh01/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shankersingh01/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
