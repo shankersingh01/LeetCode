@@ -7,13 +7,12 @@ public:
 
         while (right < nums.size()) {
             sum += nums[right];
-            
-            while (nums[right] * (right-left+1) > sum + k) {
+
+            while (nums[right] * (right - left + 1) > sum + k) {
                 sum -= nums[left];
                 left++;
-                
             }
-            maxFreqLen = max(maxFreqLen, right-left+1);
+            maxFreqLen = max(maxFreqLen, right - left + 1);
             right++;
         }
         return maxFreqLen;
