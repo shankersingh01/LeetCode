@@ -7,15 +7,15 @@ public:
 
         while (right < nums.size()) {
             sum += nums[right];
-            long windowLen = right - left + 1;
-            while (nums[right] * windowLen > sum + k) {
+            
+            while (nums[right] * (right-left+1) > sum + k) {
                 sum -= nums[left];
                 left++;
-                windowLen--;
+                
             }
-            maxFreqLen = max(maxFreqLen, windowLen);
+            maxFreqLen = max(maxFreqLen, right-left+1);
             right++;
         }
-        return static_cast<int>(maxFreqLen);
+        return maxFreqLen;
     }
 };
