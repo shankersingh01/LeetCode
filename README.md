@@ -231,6 +231,7 @@
 | [0729-my-calendar-i](https://github.com/shankersingh01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shankersingh01/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/shankersingh01/LeetCode/tree/master/0792-binary-search) |
+| [0859-design-circular-deque](https://github.com/shankersingh01/LeetCode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/shankersingh01/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/shankersingh01/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/shankersingh01/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -354,6 +355,7 @@
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/shankersingh01/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/shankersingh01/LeetCode/tree/master/0859-design-circular-deque) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shankersingh01/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shankersingh01/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/shankersingh01/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -405,6 +407,7 @@
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/shankersingh01/LeetCode/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shankersingh01/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -563,6 +566,7 @@
 | [0729-my-calendar-i](https://github.com/shankersingh01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shankersingh01/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shankersingh01/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/shankersingh01/LeetCode/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
