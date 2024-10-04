@@ -9,11 +9,10 @@ public:
         long long totChemSum = 0;
         while (start < end) {
             int sum = skill[start] + skill[end];
-            if (sum == initSum) {
-                totChemSum += skill[start] * skill[end];
-            } else {
+            if (sum != initSum) {
                 return -1;
             }
+            totChemSum += skill[start] * skill[end];
             start++;
             end--;
         }
