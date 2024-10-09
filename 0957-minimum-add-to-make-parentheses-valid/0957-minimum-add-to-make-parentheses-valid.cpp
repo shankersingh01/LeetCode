@@ -7,9 +7,6 @@ public:
             if(!stk.empty() && s[i]==')' && stk.top()=='('){
                 stk.pop();
             }
-            // else if(stk.empty() || s[i] == stk.top()){
-            //     stk.push(s[i]);
-            // }
             else{
                 stk.push(s[i]);
             }
