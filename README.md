@@ -680,4 +680,8 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/shankersingh01/LeetCode/tree/master/1002-maximum-width-ramp) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/shankersingh01/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
