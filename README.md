@@ -238,6 +238,7 @@
 | [0921-spiral-matrix-iii](https://github.com/shankersingh01/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/shankersingh01/LeetCode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/shankersingh01/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/shankersingh01/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1196-filling-bookcase-shelves](https://github.com/shankersingh01/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shankersingh01/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/shankersingh01/LeetCode/tree/master/1240-stone-game-ii) |
@@ -473,6 +474,7 @@
 | [0726-number-of-atoms](https://github.com/shankersingh01/LeetCode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shankersingh01/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/shankersingh01/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shankersingh01/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/shankersingh01/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/shankersingh01/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -674,4 +676,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/shankersingh01/LeetCode/tree/master/0432-all-oone-data-structure) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/shankersingh01/LeetCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
