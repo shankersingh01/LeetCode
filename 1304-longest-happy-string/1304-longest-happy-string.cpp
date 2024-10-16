@@ -2,13 +2,16 @@ class Solution {
 public:
     string longestDiverseString(int a, int b, int c) {
         priority_queue<pair<int, char>> maxHeap;
-        maxHeap.push({a, 'a'});
-        maxHeap.push({b, 'b'});
-        maxHeap.push({c, 'c'});
+        if (a > 0)
+            maxHeap.push({a, 'a'});
+        if (b > 0)
+            maxHeap.push({b, 'b'});
+        if (c > 0)
+            maxHeap.push({c, 'c'});
 
         string result = "";
 
-        while (maxHeap.top().first > 0) {
+        while (!maxHeap.empty()) {
             auto [freq1, char1] = maxHeap.top();
             maxHeap.pop();
 
@@ -19,18 +22,19 @@ public:
 
                 auto [freq2, char2] = maxHeap.top();
                 maxHeap.pop();
-                if(freq2 > 0){
-                    result += char2;
-                    freq2--;
+
+                result += char2;
+                freq2--;
+                if (freq2 > 0)
                     maxHeap.push({freq2, char2});
-                    maxHeap.push({freq1, char1});
-                }
+                maxHeap.push({freq1, char1});
+
             } else {
-                if(freq1 > 0){
-                    result += char1;
-                    freq1--;
+
+                result += char1;
+                freq1--;
+                if (freq1 > 0)
                     maxHeap.push({freq1, char1});
-                }
             }
         }
         return result;
