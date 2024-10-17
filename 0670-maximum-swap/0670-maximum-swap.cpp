@@ -18,9 +18,9 @@ public:
             int j = rightMaxIndex[i];
             if (strNum[i] < strNum[j]) {
                 swap(strNum[i], strNum[j]);
-                break;
+                return stoi(strNum);
             }
         }
-        return stoi(strNum);
+        return num;
     }
 };
