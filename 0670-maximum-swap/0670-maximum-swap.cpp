@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maximumSwap(int num) {
-        unordered_map<char, int> indexMapOfMaxValues;
+        unordered_map<int, int> indexMapOfMaxValues;
 
         string strNum = to_string(num);
 
