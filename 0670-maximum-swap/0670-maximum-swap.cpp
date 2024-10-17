@@ -1,24 +1,22 @@
 class Solution {
 public:
     int maximumSwap(int num) {
-        unordered_map<int, int> indexMapOfMaxValues;
 
         string strNum = to_string(num);
 
-        vector<char> maxValueWindow(strNum.size(), 0);
-        int maxValue = -1;
-        int maxValueIndex = 0;
+        vector<int> rightMaxIndex(strNum.size());
+        int maxValueIndex = strNum.size() - 1;
+
         for (int i = strNum.size() - 1; i >= 0; --i) {
-            if (maxValue < strNum[i]) {
-                maxValue = strNum[i];
-                indexMapOfMaxValues[maxValue] = i;
+            if (strNum[maxValueIndex] < strNum[i]) {
+                maxValueIndex = i;
             }
-            maxValueWindow[i] = maxValue;
+            rightMaxIndex[i] = maxValueIndex;
         }
 
         for (int i = 0; i < strNum.size(); ++i) {
-            if (strNum[i] < maxValueWindow[i]) {
-                int j = indexMapOfMaxValues[maxValueWindow[i]];
+            int j = rightMaxIndex[i];
+            if (strNum[i] < strNum[j]) {
                 swap(strNum[i], strNum[j]);
                 break;
             }
