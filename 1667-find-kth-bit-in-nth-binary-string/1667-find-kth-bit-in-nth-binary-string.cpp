@@ -1,26 +1,19 @@
 class Solution {
 public:
-    string invertBinary(const string& binary) {
-        string invert;
-
-        for (char c : binary) {
-            if (c == '0') {
-                invert += '1';
-            } else if(c=='1'){
-                invert += '0';
-            }
-        }
-        return invert;
-    }
-
     char findKthBit(int n, int k) {
+        if (n == 1)
+            return '0';
 
-        string binary = "0";
-        for (int i = 1; i < n; ++i) {
-            string invert = invertBinary(binary);
-            reverse(invert.begin(), invert.end());
-            binary += '1' + invert;
-        }
-        return binary[k - 1];
+        int strLength = (1 << n) - 1;
+
+        int mid = (strLength / 2) + 1;
+
+        if (mid == k)
+            return '1';
+
+        if (k < mid)
+            return findKthBit(n - 1, k);
+
+        return findKthBit(n - 1, strLength - k + 1) == '0' ? '1' : '0';
     }
 };
