@@ -1,24 +1,30 @@
 class Solution {
 public:
     vector<int> resultsArray(vector<int>& nums, int k) {
-        if (k == 1)
-            return nums;
+        vector<int> result;
+        int windowStart = 0;
+        int consecutiveCount = 1;
 
-        vector<int> results;
-
-        for (int i = 0; i <= nums.size() - k; ++i) {
-            bool flag = false;
-            for (int j = i; j < i + k - 1; j++) {
-                if (nums[j] >= nums[j + 1] || nums[j+1] != nums[j]+1) {
-                    results.push_back(-1);
-                    flag = true;
-                    break;
-                }
+        for (int windowEnd = 0; windowEnd < nums.size(); windowEnd++) {
+            if (windowEnd > 0 && nums[windowEnd - 1] + 1 == nums[windowEnd]) {
+                consecutiveCount++;
             }
-            if (!flag) {
-                results.push_back(nums[i + k - 1]);
+
+            // Ensure the window size remains equal to `k`
+            if (windowEnd - windowStart + 1 > k) {
+                // If the element leaving the window was part of a consecutive
+                // sequence, decrement the count
+                if (nums[windowStart] + 1 == nums[windowStart + 1]) {
+                    consecutiveCount--;
+                }
+                windowStart++;
+            }
+
+            if (windowEnd - windowStart + 1 == k) {
+                result.push_back(consecutiveCount == k ? nums[windowEnd] : -1);
             }
         }
-        return results;
+
+        return result;
     }
 };
