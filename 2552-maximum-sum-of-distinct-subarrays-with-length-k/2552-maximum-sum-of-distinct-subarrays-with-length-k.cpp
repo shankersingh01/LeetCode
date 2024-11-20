@@ -19,12 +19,6 @@ public:
                 left++;
             }
 
-            // while (right - left + 1 > k) {
-            //     sum -= nums[left];
-            //     uniqueElements.erase(nums[left]);
-            //     left++;
-            // }
-
             sum += nums[right];
             uniqueElements.insert(nums[right]);
 
