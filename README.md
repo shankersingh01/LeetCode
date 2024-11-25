@@ -191,6 +191,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/shankersingh01/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/shankersingh01/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/shankersingh01/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/shankersingh01/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -240,6 +241,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shankersingh01/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/shankersingh01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shankersingh01/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/shankersingh01/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/shankersingh01/LeetCode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/shankersingh01/LeetCode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/shankersingh01/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -614,6 +616,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/shankersingh01/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/shankersingh01/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/shankersingh01/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/shankersingh01/LeetCode/tree/master/0999-regions-cut-by-slashes) |
