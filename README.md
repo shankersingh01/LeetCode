@@ -327,6 +327,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shankersingh01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/shankersingh01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/shankersingh01/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/shankersingh01/LeetCode/tree/master/0268-missing-number) |
@@ -489,6 +490,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shankersingh01/LeetCode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/shankersingh01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shankersingh01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shankersingh01/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/shankersingh01/LeetCode/tree/master/0268-missing-number) |
@@ -524,6 +526,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shankersingh01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0179-largest-number](https://github.com/shankersingh01/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/shankersingh01/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shankersingh01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
