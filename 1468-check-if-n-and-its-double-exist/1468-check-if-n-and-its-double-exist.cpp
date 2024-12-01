@@ -1,17 +1,14 @@
 class Solution {
 public:
     bool checkIfExist(vector<int>& arr) {
-        unordered_map<int, int> nums;
+        unordered_set<int> nums;
 
         for (int ele : arr) {
-            int biggerDouble = ele * 2;
-            int smallerDouble = ele / 2;
-            if ((ele % 2 == 0 && (nums.find(biggerDouble) != nums.end() ||
-                                  nums.find(smallerDouble) != nums.end())) ||
-                nums.find(biggerDouble) != nums.end()) {
+            if (nums.find(ele * 2) != nums.end() ||
+                ele % 2 == 0 && nums.find(ele / 2) != nums.end()) {
                 return true;
             }
-            nums[ele]++;
+            nums.insert(ele);
         }
         return false;
     }
