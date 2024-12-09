@@ -15,8 +15,6 @@ public:
                 index = i;
                 prefixParity[i] = make_pair(index, 0);
             }
-            cout << prefixParity[i].first << " " << prefixParity[i].second
-                 << endl;
         }
         vector<bool> result;
         for (auto& query : queries) {
