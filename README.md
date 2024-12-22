@@ -241,6 +241,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/shankersingh01/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shankersingh01/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/shankersingh01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/shankersingh01/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/shankersingh01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shankersingh01/LeetCode/tree/master/0268-missing-number) |
@@ -403,6 +404,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shankersingh01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shankersingh01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/shankersingh01/LeetCode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shankersingh01/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -452,6 +454,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shankersingh01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/shankersingh01/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/shankersingh01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shankersingh01/LeetCode/tree/master/0242-valid-anagram) |
