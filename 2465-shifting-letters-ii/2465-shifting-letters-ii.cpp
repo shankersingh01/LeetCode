@@ -4,7 +4,6 @@ public:
         int n = s.size();
         vector<int> shift(n + 1, 0);
 
-        // Process the shifts
         for (auto& shiftOp : shifts) {
             int start = shiftOp[0], end = shiftOp[1], direction = shiftOp[2];
             shift[start] += (direction == 1 ? 1 : -1);
