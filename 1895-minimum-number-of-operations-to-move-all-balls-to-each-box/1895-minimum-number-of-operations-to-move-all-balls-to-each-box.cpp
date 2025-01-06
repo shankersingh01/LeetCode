@@ -1,22 +1,26 @@
 class Solution {
 public:
     vector<int> minOperations(string boxes) {
-        vector<int> index;
+        int n = boxes.size();
+        vector<int> answer(n, 0);
 
-        for (int i = 0; i < boxes.size(); ++i) {
-            if (boxes[i] == '1') {
-                index.push_back(i);
-            }
-        }
-        vector<int> result;
+        int ballsToLeft = 0, movesToLeft = 0;
+        int ballsToRight = 0, movesToRight = 0;
 
-        for (int i = 0; i < boxes.size(); ++i) {
-            int minOperation = 0;
-            for (int j = 0; j < index.size(); ++j) {
-                minOperation += abs(i - index[j]);
-            }
-            result.push_back(minOperation);
+        // Single pass: calculate moves from both left and right
+        for (int i = 0; i < n; i++) {
+            // Left pass
+            answer[i] += movesToLeft;
+            ballsToLeft += boxes[i] - '0';
+            movesToLeft += ballsToLeft;
+
+            // Right pass
+            int j = n - 1 - i;
+            answer[j] += movesToRight;
+            ballsToRight += boxes[j] - '0';
+            movesToRight += ballsToRight;
         }
-        return result;
+
+        return answer;
     }
 };
