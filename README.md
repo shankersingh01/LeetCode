@@ -174,6 +174,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/shankersingh01/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shankersingh01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/shankersingh01/LeetCode/tree/master/0386-lexicographical-numbers) |
@@ -198,6 +199,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/shankersingh01/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shankersingh01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shankersingh01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/shankersingh01/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -717,6 +719,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/shankersingh01/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shankersingh01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shankersingh01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -738,6 +741,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/shankersingh01/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shankersingh01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shankersingh01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
