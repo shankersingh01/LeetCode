@@ -1,42 +1,40 @@
 class Solution {
 public:
-    int n;
-    bitset<100> path[100]; // Store prerequisite relationships
-    vector<int> adj[100];  // Adjacency list for the graph
+    // Performs DFS and returns true if there's a path between src and target
+    // and false otherwise.
+    bool isPrerequisite(unordered_map<int, vector<int>>& adjList,
+                        vector<bool>& visited, int src, int target) {
+        visited[src] = 1;
 
-    void dfs(int start, int i, bitset<100>& visited) {
-        visited[i] = 1;     // Mark as visited
-        path[start][i] = 1; // path from start to i
-        for (int j : adj[i]) {
-            if (visited[j]) {
-                path[i] |= path[j];
-                continue;
-            }
-            dfs(start, j, visited);
+        if (src == target) {
+            return true;
         }
+
+        int answer = false;
+        for (auto adj : adjList[src]) {
+            if (!visited[adj]) {
+                answer =
+                    answer || isPrerequisite(adjList, visited, adj, target);
+            }
+        }
+        return answer;
     }
 
-    vector<bool> checkIfPrerequisite(int n, vector<vector<int>>& prerequisites,
+    vector<bool> checkIfPrerequisite(int numCourses,
+                                     vector<vector<int>>& prerequisites,
                                      vector<vector<int>>& queries) {
-        this->n = n;
-
-        // Build the graph and initialize prerequisites
-        for (auto& edge : prerequisites) {
-            int u = edge[0], v = edge[1];
-            adj[u].push_back(v);
+        unordered_map<int, vector<int>> adjList;
+        for (auto edge : prerequisites) {
+            adjList[edge[0]].push_back(edge[1]);
         }
 
-        // Perform DFS from each node
-        for (int i = 0; i < n; i++) {
-            bitset<100> visited;
-            if (!visited[i])
-                dfs(i, i, visited); // Start DFS from node i
+        vector<bool> answer;
+        for (auto q : queries) {
+            // Reset the visited array for each query.
+            vector<bool> visited(numCourses, false);
+            answer.push_back(isPrerequisite(adjList, visited, q[0], q[1]));
         }
 
-        const int m = queries.size();
-        vector<bool> ans(m, 0);
-        for (int i = 0; i < m; i++)
-            ans[i] = path[queries[i][0]][queries[i][1]];
-        return ans;
+        return answer;
     }
 };
