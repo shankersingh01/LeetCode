@@ -12,19 +12,15 @@ public:
             if (nums[i] < nums[i + 1]) {
                 incCount++;
                 decCount = 1;
-            }
-            if (nums[i] > nums[i + 1]) {
+            } else if (nums[i] > nums[i + 1]) {
                 incCount = 1;
                 decCount++;
-            }
-            if (nums[i] == nums[i + 1]) {
+            } else {
                 incCount = 1;
                 decCount = 1;
             }
-            int maxCount = max(incCount, decCount);
-            result = max(maxCount, result);
+            result = max({incCount, decCount, result});
         }
-
         return result;
     }
 };
