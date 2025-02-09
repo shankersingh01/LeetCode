@@ -6,14 +6,11 @@ public:
 
         unordered_map<int, int> diffMap;
         long long notBadPairCount = 0;
+
         for (int i = 0; i < n; ++i) {
-            diffMap[nums[i] - i]++;
-            if (diffMap.find(nums[i] - i) != diffMap.end()) {
-                notBadPairCount += (diffMap[nums[i] - i] - 1);
-                cout<<notBadPairCount<<endl;
-            }   
+            notBadPairCount += diffMap[nums[i] - i]; 
+            diffMap[nums[i] - i]++; 
         }
-        long long result = totalPairs - notBadPairCount;
-        return result;
+        return totalPairs - notBadPairCount;
     }
 };
