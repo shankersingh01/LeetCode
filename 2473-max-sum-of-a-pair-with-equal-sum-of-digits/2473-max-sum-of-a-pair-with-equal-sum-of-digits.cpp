@@ -19,7 +19,8 @@ public:
                 mp[sumDigit] = nums[i];
         }
 
-        int maxPairSum = !ans.empty() ? *max_element(ans.begin(), ans.end()) : -1;
+        int maxPairSum =
+            !ans.empty() ? *max_element(ans.begin(), ans.end()) : -1;
         return maxPairSum;
     }
 };
