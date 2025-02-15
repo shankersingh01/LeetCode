@@ -1,8 +1,6 @@
 class Solution {
 public:
-    void generateAllPossiblePartition(string s, int index,
-                                      vector<int>& currPartition,
-                                      vector<vector<int>>& allPartitions) {
+    void generateAllPossiblePartition(string s, int index, vector<int>& currPartition, vector<vector<int>>& allPartitions) {
         if (index == s.size()) {
             allPartitions.push_back(currPartition);
             return;
@@ -11,8 +9,7 @@ public:
         for (int i = index; i < s.size(); ++i) {
             partitionSum = partitionSum * 10 + (s[i] - '0');
             currPartition.push_back(partitionSum);
-            generateAllPossiblePartition(s, i + 1, currPartition,
-                                         allPartitions);
+            generateAllPossiblePartition(s, i + 1, currPartition, allPartitions);
             currPartition.pop_back();
         }
     }
@@ -39,8 +36,7 @@ public:
                 int squareNum = i * i;
                 vector<vector<int>> allPartitions;
                 vector<int> currPartition;
-                generateAllPossiblePartition(to_string(squareNum), 0,
-                                             currPartition, allPartitions);
+                generateAllPossiblePartition(to_string(squareNum), 0, currPartition, allPartitions);
                 if (checkPartitionSum(allPartitions, i)) {
                     sum += squareNum;
                 }
