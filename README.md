@@ -288,6 +288,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/shankersingh01/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/shankersingh01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shankersingh01/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shankersingh01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/shankersingh01/LeetCode/tree/master/0179-largest-number) |
@@ -912,6 +913,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shankersingh01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/shankersingh01/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -978,6 +980,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shankersingh01/LeetCode/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shankersingh01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shankersingh01/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0494-target-sum](https://github.com/shankersingh01/LeetCode/tree/master/0494-target-sum) |
