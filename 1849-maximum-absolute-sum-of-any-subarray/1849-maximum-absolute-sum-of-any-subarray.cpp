@@ -5,14 +5,14 @@ public:
         int posSum = 0, negSum = 0;
         for (int i = 0; i < nums.size(); ++i) {
             posSum += nums[i];
+            maxSum = max(maxSum, posSum);
             if (posSum < 0)
                 posSum = 0;
-            maxSum = max(maxSum, posSum);
 
             negSum += nums[i];
+            minSum = min(minSum, negSum);
             if (negSum > 0)
                 negSum = 0;
-            minSum = min(minSum, negSum);
         }
 
         return abs(maxSum) >= abs(minSum) ? abs(maxSum) : abs(minSum);
