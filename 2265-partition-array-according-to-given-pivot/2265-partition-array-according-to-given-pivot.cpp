@@ -19,9 +19,3 @@ public:
         return ans;
     }
 };
-
-// find the count of small numbers and equal to pivot
-// if there are element equal to pivot then first append the smaller numbers in
-// the array then if the pointer reaches the end and still the count is positive
-// then add elements that are equal to pivot till count 0 Then find elements
-// that are greater and then append it after the pivot element
