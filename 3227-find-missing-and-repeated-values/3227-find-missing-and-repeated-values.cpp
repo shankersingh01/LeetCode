@@ -16,9 +16,7 @@ public:
             if (freq[i] < 1)
                 missingNum = i;
         }
-        vector<int> ans(2, 0);
-        ans[0] = repeatedNum;
-        ans[1] = missingNum;
-        return ans;
+        
+        return {repeatedNum, missingNum};
     }
 };
