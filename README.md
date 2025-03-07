@@ -703,6 +703,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/shankersingh01/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/shankersingh01/LeetCode/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/shankersingh01/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/shankersingh01/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/shankersingh01/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shankersingh01/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/shankersingh01/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -1125,6 +1126,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/shankersingh01/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/shankersingh01/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shankersingh01/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
