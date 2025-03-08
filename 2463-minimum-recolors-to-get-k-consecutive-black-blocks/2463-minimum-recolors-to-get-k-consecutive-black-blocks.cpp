@@ -17,6 +17,6 @@ public:
             }
             maxBlackCount = max(blackCount, maxBlackCount);
         }
-        return maxBlackCount >= k ? 0 : k - maxBlackCount;
+        return k - maxBlackCount;
     }
 };
