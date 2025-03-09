@@ -179,6 +179,7 @@
 | [0112-path-sum](https://github.com/shankersingh01/LeetCode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/shankersingh01/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/shankersingh01/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/shankersingh01/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shankersingh01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/shankersingh01/LeetCode/tree/master/0684-redundant-connection) |
@@ -215,6 +216,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shankersingh01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shankersingh01/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/shankersingh01/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/shankersingh01/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/shankersingh01/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shankersingh01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/shankersingh01/LeetCode/tree/master/0684-redundant-connection) |
@@ -846,6 +848,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shankersingh01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shankersingh01/LeetCode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/shankersingh01/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shankersingh01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shankersingh01/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -873,6 +876,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shankersingh01/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shankersingh01/LeetCode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/shankersingh01/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shankersingh01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shankersingh01/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
