@@ -1,26 +1,20 @@
 class Solution {
 public:
-    int maximumCount(vector<int>& nums) {
-        int posCount = 0, negCount = 0;
-        
-        int left = 0, right = nums.size()-1;
-        int firstPositive = -1, firstZero = -1;
-        while(left <= right){
-            int mid = left + (right - left) / 2;
-            if(nums[mid] > 0) right = mid - 1;
-            else left = mid + 1;
-        }
-        firstPositive = left;
+    int lowerBound(vector<int>& nums, int target){
+        int left = 0, right = nums.size();
 
-        left = 0, right = nums.size()-1;
-        while(left <= right){
+        while(left < right){
             int mid = left + (right - left) / 2;
-            if(nums[mid] >= 0) right = mid - 1;
+            if(nums[mid] >= target) right = mid;
             else left = mid + 1;
         }
-        firstZero = left; 
-        posCount = nums.size() - firstPositive;
-        negCount = firstZero;
-        return max(posCount , negCount);
+        return left;
+    }
+
+    int maximumCount(vector<int>& nums) {
+        int negCount = lowerBound(nums, 0);
+        int posIndex = lowerBound(nums, 1);
+        int posCount = nums.size() - posIndex;
+        return max(posCount, negCount);
     }
 };
