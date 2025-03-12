@@ -186,6 +186,7 @@
 | [0437-path-sum-iii](https://github.com/shankersingh01/LeetCode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shankersingh01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/shankersingh01/LeetCode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/shankersingh01/LeetCode/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/shankersingh01/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/shankersingh01/LeetCode/tree/master/0854-making-a-large-island) |
@@ -224,6 +225,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/shankersingh01/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shankersingh01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/shankersingh01/LeetCode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/shankersingh01/LeetCode/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/shankersingh01/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/shankersingh01/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/shankersingh01/LeetCode/tree/master/0854-making-a-large-island) |
@@ -288,6 +290,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/shankersingh01/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/shankersingh01/LeetCode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/shankersingh01/LeetCode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/shankersingh01/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shankersingh01/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/shankersingh01/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -317,6 +320,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/shankersingh01/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/shankersingh01/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shankersingh01/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0695-max-area-of-island](https://github.com/shankersingh01/LeetCode/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shankersingh01/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/shankersingh01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shankersingh01/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -918,6 +922,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/shankersingh01/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/shankersingh01/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0695-max-area-of-island](https://github.com/shankersingh01/LeetCode/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/shankersingh01/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/shankersingh01/LeetCode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/shankersingh01/LeetCode/tree/master/0870-magic-squares-in-grid) |
