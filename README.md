@@ -183,6 +183,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/shankersingh01/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shankersingh01/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shankersingh01/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/shankersingh01/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/shankersingh01/LeetCode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shankersingh01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -765,6 +766,7 @@
 | [0214-shortest-palindrome](https://github.com/shankersingh01/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shankersingh01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/shankersingh01/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/shankersingh01/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/shankersingh01/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/shankersingh01/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/shankersingh01/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -877,6 +879,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shankersingh01/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shankersingh01/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/shankersingh01/LeetCode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shankersingh01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -909,6 +912,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shankersingh01/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shankersingh01/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/shankersingh01/LeetCode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shankersingh01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shankersingh01/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1141,6 +1145,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/shankersingh01/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/shankersingh01/LeetCode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/shankersingh01/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/shankersingh01/LeetCode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/shankersingh01/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shankersingh01/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
