@@ -20,14 +20,11 @@ public:
         for (int i = 0; i < nums.size(); ++i) {
             if (nums[i] == maxFreqEle) {
                 maxEleCount++;
-                if (maxEleCount > (i + 1) / 2 && freq[maxFreqEle] - maxEleCount >
-                                               ((nums.size() - 1) - i) / 2) {
+                if (maxEleCount > (i + 1) / 2 &&
+                    freq[maxFreqEle] - maxEleCount >
+                        ((nums.size() - 1) - i) / 2) {
                     return i;
                 }
-                // else if(freq[maxFreqEle] - maxEleCount <= ((nums.size()-1)
-                // -i)/2){
-                //     return -1;
-                // }
             }
         }
         return -1;
