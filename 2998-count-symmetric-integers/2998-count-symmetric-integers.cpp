@@ -2,15 +2,15 @@ class Solution {
 public:
     bool checkSymmetricSum(int num) {
         string val = to_string(num);
-    
-        int sum1 = 0, sum2 = 0;
+
+        int leftSum = 0, rightSum = 0;
         for (int i = 0; i < val.size(); ++i) {
             if (i < val.size() / 2) {
-                sum1 += val[i] - '0';
+                leftSum += val[i] - '0';
             } else
-                sum2 += val[i] - '0';
+                rightSum += val[i] - '0';
         }
-        return sum1 == sum2;
+        return leftSum == rightSum;
     }
 
     int countSymmetricIntegers(int low, int high) {
