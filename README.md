@@ -849,6 +849,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shankersingh01/LeetCode/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/shankersingh01/LeetCode/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/shankersingh01/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/shankersingh01/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shankersingh01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
