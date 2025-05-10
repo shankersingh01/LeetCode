@@ -3,8 +3,6 @@ public:
     long long minSum(vector<int>& nums1, vector<int>& nums2) {
         long long sum1 = 0, sum2 = 0;
         int nums1zeroCount = 0, nums2zeroCount = 0;
-        sort(nums1.begin(), nums1.end());
-        sort(nums2.begin(), nums2.end());
         for (long long num : nums1) {
             if (num == 0) {
                 nums1zeroCount++;
