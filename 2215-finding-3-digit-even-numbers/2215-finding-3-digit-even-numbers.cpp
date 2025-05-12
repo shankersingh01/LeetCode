@@ -9,7 +9,7 @@ public:
             freq[num]++;
         }
 
-        for (int i = 100; i <= 999; ++i) {
+        for (int i = 100; i <= 999; i+=2) {
             unordered_map<int, int> freqTemp = freq;
             int temp = i;
 
@@ -23,7 +23,7 @@ public:
                 }
                 temp /= 10;
             }
-            if (temp <= 0 && i % 2 == 0) {
+            if (temp <= 0) {
                 ans.push_back(i);
             }
         }
