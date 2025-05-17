@@ -331,6 +331,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shankersingh01/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/shankersingh01/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/shankersingh01/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/shankersingh01/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shankersingh01/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shankersingh01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shankersingh01/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -631,6 +632,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shankersingh01/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shankersingh01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shankersingh01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/shankersingh01/LeetCode/tree/master/0567-permutation-in-string) |
@@ -699,6 +701,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shankersingh01/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shankersingh01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/shankersingh01/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/shankersingh01/LeetCode/tree/master/0217-contains-duplicate) |
