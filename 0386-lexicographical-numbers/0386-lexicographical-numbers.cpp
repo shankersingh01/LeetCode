@@ -1,24 +1,17 @@
 class Solution {
 public:
-    vector<int> result;
-
-    void dfs(int num, int range) {
-        if (num > range)
+    void dfs(int num, int n, vector<int>& result) {
+        if (num > n)
             return;
         result.push_back(num);
-        num *= 10;
-
-        for (int i = 0; i < 10; ++i) {
-            dfs(num + i, range);
-        }
+        dfs(num * 10, n, result);
+        if (num % 10 != 9)
+            dfs(num + 1, n, result);
     }
 
     vector<int> lexicalOrder(int n) {
-
-        for (int i = 1; i < 10; ++i) {
-            dfs(i, n);
-        }
-
+        vector<int> result;
+        dfs(1, n, result);
         return result;
     }
 };
