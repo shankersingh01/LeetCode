@@ -1,37 +1,26 @@
 class Solution {
 public:
-    // Function to count how many numbers are between 'prefix' and 'n'
-    int countSteps(int prefix, int n) {
-        long long current = prefix;
-        long long next = prefix + 1;
-        int steps = 0;
-        while (current <= n) {
-            steps += min((long long)n + 1, next) - current;
-            current *= 10;
-            next *= 10;
-        }
-        return steps;
-    }
-
     int findKthNumber(int n, int k) {
-        int current = 1;
-        --k; // We're starting from 1, so decrement k to account for the first
-             // number
+        int curr = 1;
+        k--; // we already count 1
 
         while (k > 0) {
-            int steps = countSteps(current, n);
+            long steps = 0, first = curr, last = curr + 1;
+            while (first <= n) {
+                steps += min((long)n + 1, last) - first;
+                first *= 10;
+                last *= 10;
+            }
+
             if (steps <= k) {
-                // If the total steps from 'current' is less than k, move to the
-                // next sibling
-                current++;
-                k -= steps; // Skip these many steps
+                curr++; // skip current subtree
+                k -= steps;
             } else {
-                // If k is smaller, go deeper (multiply current by 10)
-                current *= 10;
-                --k; // Since we go deeper, we count the current number itself
+                curr *= 10; // go deeper
+                k--;        // count current node
             }
         }
 
-        return current;
+        return curr;
     }
 };
