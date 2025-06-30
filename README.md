@@ -361,6 +361,7 @@
 | [0494-target-sum](https://github.com/shankersingh01/LeetCode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/shankersingh01/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shankersingh01/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/shankersingh01/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/shankersingh01/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shankersingh01/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0695-max-area-of-island](https://github.com/shankersingh01/LeetCode/tree/master/0695-max-area-of-island) |
@@ -585,6 +586,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/shankersingh01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/shankersingh01/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/shankersingh01/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/shankersingh01/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shankersingh01/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/shankersingh01/LeetCode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/shankersingh01/LeetCode/tree/master/0768-partition-labels) |
@@ -755,6 +757,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/shankersingh01/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/shankersingh01/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/shankersingh01/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/shankersingh01/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shankersingh01/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shankersingh01/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/shankersingh01/LeetCode/tree/master/0726-number-of-atoms) |
@@ -1302,6 +1305,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/shankersingh01/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shankersingh01/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/shankersingh01/LeetCode/tree/master/0948-sort-an-array) |
 | [1160-letter-tile-possibilities](https://github.com/shankersingh01/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -1400,6 +1404,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/shankersingh01/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/shankersingh01/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shankersingh01/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shankersingh01/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shankersingh01/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
