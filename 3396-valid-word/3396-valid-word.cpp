@@ -4,7 +4,7 @@ public:
         if (word.size() < 3)
             return false;
 
-        bool upperCase = false, vowel = false, consonant = false, digit = false;
+        bool vowel = false, consonant = false;
 
         for (char ch : word) {
 
@@ -20,9 +20,8 @@ public:
                     vowel = true;
                 else
                     consonant = true;
-                upperCase = true;
             } else if (ch >= '0' && ch <= '9') {
-                digit = true;
+                continue;
             } else
                 return false;
         }
