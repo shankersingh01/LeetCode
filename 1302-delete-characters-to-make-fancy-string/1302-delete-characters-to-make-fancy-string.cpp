@@ -1,21 +1,17 @@
 class Solution {
 public:
     string makeFancyString(string s) {
-        int sSize = s.size();
+        int count = 1;
+        if (s.size() <= 2)
+            return s;
         string result = "";
-
-        if (sSize > 0) {
-            result += s[0];
-        }
-
-        int sameCharCount = 1;
-
-        for (int i = 1; i < sSize; ++i) {
-            if (s[i] != result.back()) {
-                result += s[i];
-                sameCharCount = 1;
-            } else if (s[i] == result.back() && sameCharCount < 2) {
-                sameCharCount++;
+        result += s[0];
+        for (int i = 1; i < s.size(); ++i) {
+            if (s[i] == s[i - 1])
+                count++;
+            else
+                count = 1;
+            if (count < 3) {
                 result += s[i];
             }
         }
