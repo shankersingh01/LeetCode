@@ -1,27 +1,12 @@
 class Solution {
 public:
-    void backtracking(int index, int currentOR, int maxOR, int &count,
-                      vector<int>& nums) {
-        if (currentOR == maxOR) {
-            count++;
+    int countMaxOrSubsets(vector<int>& A) {
+        int max = 0, dp[1 << 17] = {1};
+        for (int a : A) {
+            for (int i = max; i >= 0; --i)
+                dp[i | a] += dp[i];
+            max |= a;
         }
-
-        for (int i = index; i < nums.size(); ++i) {
-            backtracking(i + 1, currentOR | nums[i], maxOR, count, nums);
-        }
-    }
-
-    int countMaxOrSubsets(vector<int>& nums) {
-        int maxBitOR = 0;
-        int numSize = nums.size();
-        for (int num : nums) {
-            maxBitOR |= num;
-        }
-        vector<vector<int>> result;
-        vector<int> currentSubset;
-        int count = 0;
-        backtracking(0, 0, maxBitOR, count, nums);
-
-        return count;
+        return dp[max];
     }
 };
