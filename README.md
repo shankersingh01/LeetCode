@@ -960,6 +960,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/shankersingh01/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/shankersingh01/LeetCode/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/shankersingh01/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shankersingh01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shankersingh01/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/shankersingh01/LeetCode/tree/master/0268-missing-number) |
@@ -1015,6 +1016,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shankersingh01/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shankersingh01/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/shankersingh01/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/shankersingh01/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -1288,6 +1290,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shankersingh01/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shankersingh01/LeetCode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/shankersingh01/LeetCode/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shankersingh01/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
