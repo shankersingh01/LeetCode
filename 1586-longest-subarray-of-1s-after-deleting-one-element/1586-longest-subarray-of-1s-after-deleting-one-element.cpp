@@ -22,8 +22,6 @@ public:
             result = max(result, oneCount);
             right++;
         }
-        if(result == nums.size()) return result - 1;
-        if(result == 0) return 0;
-        return result;
+        return (result == nums.size()) ? result - 1 : result;
     }
 };
