@@ -355,6 +355,7 @@
 | [0118-pascals-triangle](https://github.com/shankersingh01/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/shankersingh01/LeetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shankersingh01/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/shankersingh01/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shankersingh01/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/shankersingh01/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shankersingh01/LeetCode/tree/master/0217-contains-duplicate) |
@@ -623,6 +624,7 @@
 | [0013-roman-to-integer](https://github.com/shankersingh01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/shankersingh01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/shankersingh01/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/shankersingh01/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shankersingh01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shankersingh01/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/shankersingh01/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -813,6 +815,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shankersingh01/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shankersingh01/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shankersingh01/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shankersingh01/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/shankersingh01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shankersingh01/LeetCode/tree/master/0242-valid-anagram) |
@@ -1369,6 +1372,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shankersingh01/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shankersingh01/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shankersingh01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shankersingh01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/shankersingh01/LeetCode/tree/master/0948-sort-an-array) |
@@ -1430,6 +1434,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shankersingh01/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shankersingh01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/shankersingh01/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/shankersingh01/LeetCode/tree/master/0900-reordered-power-of-2) |
