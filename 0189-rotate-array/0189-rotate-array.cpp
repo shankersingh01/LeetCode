@@ -5,18 +5,14 @@ public:
             return;
         k = k % nums.size();
         int rotateStartIdx = 0;
-        if( k < nums.size()){
+        if (k < nums.size()) {
             rotateStartIdx = nums.size() - k;
         }
-        vector<int> ans(nums.size());
-        int j = 0;
-        for (int i = rotateStartIdx; i < nums.size(); ++i) {
-            ans[j++] = nums[i];
-        }
 
-        int i = 0;
-        for (; j < nums.size(); ++j) {
-            ans[j] = nums[i++];
+        vector<int> ans(nums.size());
+
+        for (int i = 0; i < nums.size(); ++i) {
+            ans[i] = nums[(rotateStartIdx + i) % nums.size()];
         }
         nums = ans;
     }
