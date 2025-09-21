@@ -11,7 +11,7 @@ public:
         vector<int> ans(nums.size());
         int j = 0;
         for (int i = rotateStartIdx; i < nums.size(); ++i) {
-            ans[j++] = nums[rotateStartIdx++];
+            ans[j++] = nums[i];
         }
 
         int i = 0;
